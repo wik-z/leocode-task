@@ -14,7 +14,7 @@ Their passwords are not being hashed for simplicity, therefore they're stored as
 
 ##### User #1:
 Email: `john.doe@email.example`
-Password: `123123`
+Password: `password123`
 
 ##### User #2
 Email: `chris.baker@email.example`
